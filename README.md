@@ -1,4 +1,5 @@
 <h2> Hey there, I'm Nandun! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/29I0RFoP1UBRt9hFCI/giphy.gif" width="230">
 
 [![Twitter: nandunbandaraa](https://img.shields.io/twitter/follow/nandunbandaraa?style=social)](https://twitter.com/nandunbandaraa)
 [![Linkedin: nandunbandara](https://img.shields.io/badge/-NandunBandara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nandunbandara/)](https://www.linkedin.com/in/nandunbandara/)
