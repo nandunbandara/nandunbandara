@@ -5,16 +5,16 @@
 [![Linkedin: nandunbandara](https://img.shields.io/badge/-NandunBandara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nandunbandara/)](https://www.linkedin.com/in/nandunbandara/)
 [![GitHub nandunbandara](https://img.shields.io/github/followers/nandunbandara?label=follow&style=social)](https://github.com/nandunbandara)
 
-A Full Stack Software Engineer and I'm 25 y/o.
+A 25 y/o. Full Stack Software Engineer from Sri Lanka.
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const nad = {
   pronouns: "He" | "His",
-  code: [Javascript, Typescript, HTML, CSS, C, C++, Python, Java],
-  tools: [Angular, Node, Android, React, Styled-Components, Docker],
-  databases: [MongoDB, MySQL, SQL]
+  code: [Javascript, Typescript, Go, Java, Python],
+  tools: [Kubernetes, Docker, Terraform],
+  databases: [MongoDB, MySQL, Redis, Oracle]
 }
 ```
 
