@@ -12,9 +12,9 @@ A 25 y/o. Full Stack Software Engineer from Sri Lanka.
 ```javascript
 const nandunbandara = {
   pronouns: "He" | "His",
-  code: [Javascript, Typescript, Go, Java, Python],
-  tools: [Kubernetes, Docker, Terraform],
-  databases: [MongoDB, MySQL, Redis, Oracle]
+  code: [Javascript, Typescript, Go],
+  tools: [Kubernetes, Docker, Terraform, AWS],
+  databases: [MongoDB, MySQL, Postgres, Redis]
 }
 ```
 
