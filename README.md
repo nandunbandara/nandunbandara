@@ -5,7 +5,7 @@
 [![Linkedin: nandunbandara](https://img.shields.io/badge/-NandunBandara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nandunbandara/)](https://www.linkedin.com/in/nandunbandara/)
 [![GitHub nandunbandara](https://img.shields.io/github/followers/nandunbandara?label=follow&style=social)](https://github.com/nandunbandara)
 
-A 25 y/o. Full Stack Software Engineer from Sri Lanka.
+A 28 y/o. Full Stack Software Engineer from Sri Lanka.
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
